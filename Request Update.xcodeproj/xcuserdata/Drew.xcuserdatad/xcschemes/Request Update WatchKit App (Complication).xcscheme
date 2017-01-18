@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "0820"
-   version = "1.3">
+   version = "2.0">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3A71E3661E2F87E6002B6E44"
+               BuildableName = "Request Update WatchKit App.app"
+               BlueprintName = "Request Update WatchKit App"
+               ReferencedContainer = "container:Request Update.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3A71E3541E2F87E6002B6E44"
+               BuildableName = "Request Update.app"
+               BlueprintName = "Request Update"
+               ReferencedContainer = "container:Request Update.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +43,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3A71E3661E2F87E6002B6E44"
+            BuildableName = "Request Update WatchKit App.app"
+            BlueprintName = "Request Update WatchKit App"
+            ReferencedContainer = "container:Request Update.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -25,7 +64,29 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
-      allowLocationSimulation = "YES">
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "32">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/Request Update WatchKit App">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3A71E3661E2F87E6002B6E44"
+            BuildableName = "Request Update WatchKit App.app"
+            BlueprintName = "Request Update WatchKit App"
+            ReferencedContainer = "container:Request Update.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3A71E3661E2F87E6002B6E44"
+            BuildableName = "Request Update WatchKit App.app"
+            BlueprintName = "Request Update WatchKit App"
+            ReferencedContainer = "container:Request Update.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -34,7 +95,29 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      debugDocumentVersioning = "YES">
+      debugDocumentVersioning = "YES"
+      launchAutomaticallySubstyle = "32">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/Request Update WatchKit App">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3A71E3661E2F87E6002B6E44"
+            BuildableName = "Request Update WatchKit App.app"
+            BlueprintName = "Request Update WatchKit App"
+            ReferencedContainer = "container:Request Update.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3A71E3661E2F87E6002B6E44"
+            BuildableName = "Request Update WatchKit App.app"
+            BlueprintName = "Request Update WatchKit App"
+            ReferencedContainer = "container:Request Update.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
